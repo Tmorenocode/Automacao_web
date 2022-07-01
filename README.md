@@ -1,8 +1,8 @@
-#Projeto Automação Web - Busca de Preços
+# Projeto Automação Web - Busca de Preços
 
-##Objetivo: treinar um projeto em que a gente tenha que usar automações web com Selenium para buscar as informações que precisamos¶
+## Objetivo: treinar um projeto em que a gente tenha que usar automações web com Selenium para buscar as informações que precisamos¶
 
-###Como vai funcionar:
+### Como vai funcionar:
 Imagina que você trabalha na área de compras de uma empresa e precisa fazer uma comparação de fornecedores para os seus insumos/produtos.
 
 Nessa hora, você vai constantemente buscar nos sites desses fornecedores os produtos disponíveis e o preço, afinal, cada um deles pode fazer promoção em momentos diferentes e com valores diferentes.
