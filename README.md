@@ -20,5 +20,7 @@ Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mín
 O que devemos fazer:
 
 Procurar cada produto no Google Shopping e pegar todos os resultados que tenham preço dentro da faixa e sejam os produtos corretos
+
 Fazer o mesmo para o Buscapé
+
 Enviar um e-mail para o seu e-mail
