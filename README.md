@@ -12,9 +12,13 @@ Seu objetivo: Se o valor dos produtos for abaixo de um preço limite definido po
 Em seguida, vai enviar um e-mail com a lista dos produtos abaixo do seu preço máximo de compra.
 
 No nosso caso, vamos fazer com produtos comuns em sites como Google Shopping e Buscapé, mas a ideia é a mesma para outros sites.
+
 O que temos disponível?
+
 Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mínimo (para evitar produtos "errados" ou "baratos de mais para ser verdade" e os termos que vamos querer evitar nas nossas buscas.
+
 O que devemos fazer:
+
 Procurar cada produto no Google Shopping e pegar todos os resultados que tenham preço dentro da faixa e sejam os produtos corretos
-O mesmo para o Buscapé
+Fazer o mesmo para o Buscapé
 Enviar um e-mail para o seu e-mail
